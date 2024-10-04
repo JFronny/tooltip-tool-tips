@@ -1,0 +1,10 @@
+{
+  "tooltip.harvest_level": "Materialqualität: %s",
+  "tooltip.harvest_speed": "Einsatzgeschwindigkeit: %s",
+  "tooltip.efficiency_modifier": "(+%s)",
+  "tooltip.enchantability": "Verzauberbarkeit: %s",
+  "tooltip.durability": "Haltbarkeit: %s/%s",
+  "tooltip.hunger": "Hunger: %s",
+  "tooltip.saturation": "Sättigung: %s",
+  "tooltip.press_shift": "SHIFT für Statistiken"
+}
